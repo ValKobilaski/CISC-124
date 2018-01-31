@@ -1,0 +1,231 @@
+
+***NORMAL USE***
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+1
+You selected option 1									***Creating New class***
+Enter course enrollement size
+25
+Enter weight assignment 1 (20-30)
+25
+Enter weight assignment 2 (20-30)
+30
+Enter weight final exam (40-60)
+45
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+3
+You selected option 3
+Student Number    A1(25%)    A2(30%)    FE(45%)    Final Mark				***Running Mark Statistics***
+
+**************    *******    *******    *******    *********
+
+93149566            42         52         57          51.75    
+94585657            20         85         55          55.25    
+40916668            19         19         29          23.5    
+99126398            11         47         54          41.15    
+59105127            22         87         93          73.45    
+36703840            23         47         19          28.4    
+64029010            98         86         52          73.7    
+23302782            03         55         01          17.7    
+22183126            30         92         23          45.45    
+34038636            27         78         33          45.0    
+56475337            02         76         02          24.2    
+35371765            65         80         31          54.2    
+55971674            38         66         94          71.6    
+84745094            62         45         62          56.9    
+85125963            33         80         01          32.7    
+52989830            62         74         51          60.65    
+66074024            44         24         79          53.75    
+18105083            65         08         37          35.3    
+28543219            09         88         73          61.5    
+63736715            20         53         04          22.7    
+70424188            87         19         93          69.3    
+52982890            53         57         48          51.95    
+73836187            07         06         28          16.15    
+65375884            68         65         02          37.4    
+46329042            12         72         65          53.85    
+************************************************************
+
+AVERAGES            36.88      58.44      43.44        46.3    
+
+Highest final mark is 73.69999999999999
+Lowest final mark is 16.15
+
+Press Enter to Continue...
+
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+2											***Reviewing first student's grades***
+You selected option 2
+Enter Student Number:
+93149566
+View or Update? (V/U):
+V
+Student 93149566 marks
+
+Assignment 1: 42.0
+Assignment 2: 52.0
+Final Exam  : 57.0
+
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+2
+You selected option 2
+Enter Student Number:
+93149566
+View or Update? (V/U):
+U											***Updating A1***
+Mark Type? (A1, A2 ,FE):
+A1
+Assignment 1 is 42.0
+Updated Mark (0-100):
+66
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+2
+You selected option 2
+Enter Student Number:
+93149566
+View or Update? (V/U):
+U											***Updating A2***
+Mark Type? (A1, A2 ,FE):
+A2
+Assignment 2 is 52.0
+Updated Mark (0-100):
+32
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+2
+You selected option 2
+Enter Student Number:
+93149566
+View or Update? (V/U):
+U											***Updating FE***
+Mark Type? (A1, A2 ,FE):
+FE
+final exam is 57.0
+Updated Mark (0-100):
+100
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+2
+You selected option 2
+Enter Student Number:
+93149566
+View or Update? (V/U):
+V											***Checking grades have changed***
+Student 93149566 marks
+
+Assignment 1: 66.0
+Assignment 2: 32.0
+Final Exam  : 100.0
+
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+3
+You selected option 3
+Student Number    A1(25%)    A2(30%)    FE(45%)    Final Mark				***Running Statistics with updated student***
+
+**************    *******    *******    *******    *********
+
+93149566            66         32         100          71.1    
+94585657            20         85         55          55.25    
+40916668            19         19         29          23.5    
+99126398            11         47         54          41.15    
+59105127            22         87         93          73.45    
+36703840            23         47         19          28.4    
+64029010            98         86         52          73.7    
+23302782            03         55         01          17.7    
+22183126            30         92         23          45.45    
+34038636            27         78         33          45.0    
+56475337            02         76         02          24.2    
+35371765            65         80         31          54.2    
+55971674            38         66         94          71.6    
+84745094            62         45         62          56.9    
+85125963            33         80         01          32.7    
+52989830            62         74         51          60.65    
+66074024            44         24         79          53.75    
+18105083            65         08         37          35.3    
+28543219            09         88         73          61.5    
+63736715            20         53         04          22.7    
+70424188            87         19         93          69.3    
+52982890            53         57         48          51.95    
+73836187            07         06         28          16.15    
+65375884            68         65         02          37.4    
+46329042            12         72         65          53.85    
+************************************************************
+
+AVERAGES            37.84      57.64      45.16        47.07    
+
+Highest final mark is 73.69999999999999
+Lowest final mark is 16.15
+
+Press Enter to Continue...
+
+==================================================================================== 
+
+Grade Calculator(Version 0.1).Author: Val Kobilaski
+
+1-Simulate Course Marks
+2-View/Update Student Marks
+3-Run Mark Statistics
+
+Select Option [1,2,3] (9 to Quit)
+9											***Closing Program***
+You selected option 9, closing program
